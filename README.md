@@ -45,8 +45,3 @@ O meu trabalho não é escrever código por escrever — é **pôr produtos no a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C6C5C9?style=for-the-badge&logo=linkedin&logoColor=C6C5C9&labelColor=111113&color=292929)](https://www.linkedin.com/in/carlosimlau/)
 [![Instagram](https://img.shields.io/badge/Instagram-C6C5C9?style=for-the-badge&logo=instagram&logoColor=C6C5C9&labelColor=111113&color=292929)](https://www.instagram.com/iamcarlosimlau/)
 [![Email](https://img.shields.io/badge/eu@carlosimlau.com-C6C5C9?style=for-the-badge&logo=maildotru&logoColor=C6C5C9&labelColor=111113&color=292929)](mailto:eu@carlosimlau.com)
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=carlosimlau&show_icons=true&hide_border=true&bg_color=111113&title_color=9EFD38&icon_color=9EFD38&text_color=C6C5C9&count_private=true&include_all_commits=true" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosimlau&layout=compact&hide_border=true&bg_color=111113&title_color=9EFD38&text_color=C6C5C9&langs_count=6" height="150">
