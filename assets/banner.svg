@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-label="Carlos Imlau - Solo Product Builder">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-label="Carlos Imlau">
   <defs>
     <radialGradient id="glow" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#9EFD38" stop-opacity="0.16"/>
@@ -21,11 +21,11 @@
   <text class="f" x="1085" y="248" font-size="180" font-weight="800" fill="#292929" letter-spacing="-8" text-anchor="middle">{ }</text>
 
   <circle cx="68" cy="66" r="5" fill="#9EFD38"/>
-  <text class="f" x="86" y="71" font-size="14" font-weight="600" letter-spacing="2.6" fill="#9EFD38">SOLO PRODUCT BUILDER  ·  PORTO, PORTUGAL</text>
+  <text class="f" x="86" y="71" font-size="13.5" font-weight="600" letter-spacing="2.4" fill="#9EFD38">CONSTRUO COM IA  ·  2–4 SEMANAS  ·  PREÇO FIXO</text>
 
   <text class="f" x="62" y="163" font-size="68" font-weight="800" letter-spacing="-2.8" fill="#F4F4F5">Carlos Imlau</text>
 
-  <text class="f" x="64" y="212" font-size="22" font-weight="400" fill="#C6C5C9">MVP, landing pages e SaaS — <tspan font-weight="600" fill="#F4F4F5">do zero ao deploy em semanas.</tspan></text>
+  <text class="f" x="64" y="212" font-size="22" font-weight="400" fill="#C6C5C9">A tua ideia no ar. <tspan font-weight="600" fill="#F4F4F5">Semanas, não</tspan> <tspan font-weight="600" fill="#6E6E75" text-decoration="line-through">meses.</tspan></text>
 
   <g class="f" font-size="14.5">
     <rect x="64" y="244" width="164" height="38" rx="19" fill="#9EFD38"/>
@@ -37,7 +37,7 @@
     <rect x="342" y="244" width="108" height="38" rx="19" fill="#292929" stroke="#343434"/>
     <text x="396" y="268" font-weight="500" fill="#C6C5C9" text-anchor="middle">Sourmize</text>
 
-    <rect x="460" y="244" width="252" height="38" rx="19" fill="#292929" stroke="#343434"/>
-    <text x="586" y="268" font-weight="500" fill="#C6C5C9" text-anchor="middle">Next.js · TypeScript · Supabase</text>
+    <rect x="460" y="244" width="268" height="38" rx="19" fill="#292929" stroke="#343434"/>
+    <text x="594" y="268" font-weight="500" fill="#C6C5C9" text-anchor="middle">Claude Code · Next.js · Supabase</text>
   </g>
 </svg>
