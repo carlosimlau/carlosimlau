@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" alt="Carlos Imlau" width="100%">
+<img src="./assets/banner-v2.svg" alt="Carlos Imlau" width="100%">
 
 ### Dirijo IA para pôr produtos no ar. Os meus primeiro, os de clientes depois.
 
