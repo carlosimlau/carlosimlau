@@ -1,6 +1,6 @@
 <img src="./assets/banner-v2.svg" alt="Carlos Imlau" width="100%">
 
-### Dirijo IA para pôr produtos no ar. Os meus primeiro, os de clientes depois.
+### Dirijo IA para pôr produtos no ar — projetos meus ou de clientes.
 
 Âmbito fechado antes de começar, preço fixo antes de gastares um euro, **2 a 4 semanas** do primeiro e-mail ao produto no ar.
 
