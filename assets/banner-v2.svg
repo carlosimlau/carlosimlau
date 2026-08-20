@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-label="Carlos Imlau">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#9EFD38" stop-opacity="0.16"/>
+      <stop offset="45%" stop-color="#9EFD38" stop-opacity="0.05"/>
+      <stop offset="70%" stop-color="#9EFD38" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <style>
+      .f { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="330" fill="#111113"/>
+  <rect width="1280" height="330" fill="url(#grid)"/>
+  <circle cx="1190" cy="60" r="310" fill="url(#glow)"/>
+  <rect width="6" height="330" fill="#9EFD38"/>
+
+  <text class="f" x="1085" y="248" font-size="180" font-weight="800" fill="#292929" letter-spacing="-8" text-anchor="middle">{ }</text>
+
+  <circle cx="68" cy="66" r="5" fill="#9EFD38"/>
+  <text class="f" x="86" y="71" font-size="13.5" font-weight="600" letter-spacing="2.4" fill="#9EFD38">CONSTRUO COM IA  ·  2–4 SEMANAS  ·  PREÇO FIXO</text>
+
+  <text class="f" x="62" y="163" font-size="68" font-weight="800" letter-spacing="-2.8" fill="#F4F4F5">Carlos Imlau</text>
+
+  <text class="f" x="64" y="212" font-size="22" font-weight="400" fill="#C6C5C9">A tua ideia no ar. <tspan font-weight="600" fill="#F4F4F5">Semanas, não</tspan> <tspan font-weight="600" fill="#6E6E75" text-decoration="line-through">meses.</tspan></text>
+
+  <g class="f" font-size="14.5">
+    <rect x="64" y="244" width="164" height="38" rx="19" fill="#9EFD38"/>
+    <text x="146" y="268" font-weight="700" fill="#111113" text-anchor="middle">carlosimlau.com</text>
+
+    <rect x="238" y="244" width="94" height="38" rx="19" fill="#292929" stroke="#343434"/>
+    <text x="285" y="268" font-weight="500" fill="#C6C5C9" text-anchor="middle">Tapinfy</text>
+
+    <rect x="342" y="244" width="108" height="38" rx="19" fill="#292929" stroke="#343434"/>
+    <text x="396" y="268" font-weight="500" fill="#C6C5C9" text-anchor="middle">Sourmize</text>
+
+    <rect x="460" y="244" width="268" height="38" rx="19" fill="#292929" stroke="#343434"/>
+    <text x="594" y="268" font-weight="500" fill="#C6C5C9" text-anchor="middle">Claude Code · Next.js · Supabase</text>
+  </g>
+</svg>
