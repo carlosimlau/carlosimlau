@@ -1,4 +1,4 @@
-<img src="./capa%20linkedin%20%281280%20x%20330%20px%29%20%282%29.png" alt="Carlos Imlau" width="100%">
+<img src="./assets/banner.png" alt="Carlos Imlau" width="100%">
 
 ### Dirijo IA para pôr produtos no ar — projetos meus ou de clientes.
 
