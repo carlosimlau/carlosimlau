@@ -12,7 +12,7 @@ Sim, construo com IA. É por isso que o prazo é semanas e o preço é fixo — 
 
 | | O quê | Estado |
 |---|---|---|
-| **[Tapinfy](https://www.tapinfy.co/)** | Página, agenda e clientes num só lugar para barbearias e negócios de serviços — com a marca e o domínio do dono. O cliente agenda sozinho, sem uma mensagem trocada. €19/mês, zero comissões por agendamento. | 🟢 Em produção |
+| **[Tapinfy](https://www.tapinfy.co/)** | Página, agenda, clientes e comissões num só lugar para barbearias, com a marca e o domínio do dono. O cliente agenda sozinho e a implementação é feita pela equipe, com 30 dias de acompanhamento. | 🟢 Em produção |
 | **[Sourmize](https://www.sourmize.com/)** | Tracking de links com UTMs geradas por IA e analytics de campanha em tempo real. | 🟢 Em produção |
 
 <br>
