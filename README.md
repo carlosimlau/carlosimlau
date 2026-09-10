@@ -1,10 +1,10 @@
 <img src="./assets/banner.png" alt="Carlos Imlau" width="100%">
 
-### Dirijo IA para pôr produtos no ar — projetos meus ou de clientes.
+### Uso IA para colocar produtos no ar, meus ou de clientes.
 
-Âmbito fechado antes de começar, preço fixo antes de gastares um euro, **2 a 4 semanas** do primeiro e-mail ao produto no ar.
+Escopo fechado antes de começar, preço fixo antes de você gastar um euro e **2 a 4 semanas** do primeiro e-mail ao produto no ar.
 
-Sim, construo com IA. É por isso que o prazo é semanas e o preço é fixo — o que compras é o produto no ar e alguém que responde por ele.
+Sim, construo com IA. É por isso que o prazo é de semanas e o preço é fixo. Você paga pelo produto no ar e por alguém que responde por ele.
 
 <br>
 
@@ -19,23 +19,23 @@ Sim, construo com IA. É por isso que o prazo é semanas e o preço é fixo — 
 
 ## Como trabalho
 
-**01 · Âmbito fechado** — o que entra, o que fica de fora e o preço. Por escrito. `2–3 dias`
+**01 · Escopo fechado:** o que entra, o que fica de fora e o preço, tudo por escrito. `2 a 3 dias`
 
-**02 · Construção com IA** — o Claude Code escreve. Eu dirijo, verifico e testo. `2–4 semanas`
+**02 · Construção com IA:** o Claude Code escreve, eu dirijo, verifico e testo. `2 a 4 semanas`
 
-**03 · No ar, no teu nome** — domínio, contas e código entregues a ti. `1 dia`
-
-<br>
-
-## O que é teu fica teu
-
-Código no teu GitHub, domínio e contas no teu nome, pagamentos na tua conta Stripe. No dia em que entrego, já não precisas de mim.
-
-Não sou uma agência — falas comigo, não com um gestor de conta. Não vendo horas, vendo o produto no ar. Não sou uma ferramenta de IA: sou quem a usa e assume a responsabilidade.
+**03 · No ar, no seu nome:** domínio, contas e código entregues para você. `1 dia`
 
 <br>
 
-## Ferramentas que dirijo todos os dias
+## O que é seu fica com você
+
+Código no seu GitHub, domínio e contas no seu nome, pagamentos na sua conta Stripe. No dia da entrega, você já não depende de mim.
+
+Você fala direto comigo, do orçamento à entrega. Cobro pelo produto no ar e assumo a responsabilidade pelo que a IA escreve.
+
+<br>
+
+## Ferramentas que uso todo dia
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-9EFD38?style=for-the-badge&logo=claude&logoColor=111113&labelColor=9EFD38&color=9EFD38)
 ![Cursor](https://img.shields.io/badge/Cursor-C6C5C9?style=for-the-badge&logo=cursor&logoColor=C6C5C9&labelColor=292929&color=292929)
@@ -48,9 +48,9 @@ Não sou uma agência — falas comigo, não com um gestor de conta. Não vendo 
 
 <br>
 
-## Falar comigo
+## Fale comigo
 
-Diz-me o que precisas. Respondo em 24 horas.
+Me conta o que você precisa. Respondo em 24 horas.
 
 [![Site](https://img.shields.io/badge/carlosimlau.com-9EFD38?style=for-the-badge&logo=googlechrome&logoColor=111113&labelColor=9EFD38&color=9EFD38)](https://www.carlosimlau.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C6C5C9?style=for-the-badge&logo=linkedin&logoColor=C6C5C9&labelColor=292929&color=292929)](https://www.linkedin.com/in/carlosimlau/)
