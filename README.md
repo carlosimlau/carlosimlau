@@ -58,7 +58,8 @@ Você fala direto comigo, do orçamento à entrega. Cobro pelo produto no ar e a
 
 Me conta o que você precisa. Respondo em 24 horas.
 
-[![Site](https://img.shields.io/badge/carlosimlau.com-9EFD38?style=for-the-badge&logo=googlechrome&logoColor=111113&labelColor=9EFD38&color=9EFD38)](https://www.carlosimlau.com/)
+[![Agendar 15 min](https://img.shields.io/badge/Agendar%2015%20min-9EFD38?style=for-the-badge&logo=googlecalendar&logoColor=111113&labelColor=9EFD38&color=9EFD38)](https://link.carlosimlau.com/)
+[![Site](https://img.shields.io/badge/carlosimlau.com-C6C5C9?style=for-the-badge&logo=googlechrome&logoColor=C6C5C9&labelColor=292929&color=292929)](https://www.carlosimlau.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C6C5C9?style=for-the-badge&logo=linkedin&logoColor=C6C5C9&labelColor=292929&color=292929)](https://www.linkedin.com/in/carlosimlau/)
 [![Instagram](https://img.shields.io/badge/Instagram-C6C5C9?style=for-the-badge&logo=instagram&logoColor=C6C5C9&labelColor=292929&color=292929)](https://www.instagram.com/iamcarlosimlau/)
 [![Email](https://img.shields.io/badge/eu@carlosimlau.com-C6C5C9?style=for-the-badge&logo=gmail&logoColor=C6C5C9&labelColor=292929&color=292929)](mailto:eu@carlosimlau.com)
