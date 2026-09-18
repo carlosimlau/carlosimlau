@@ -38,13 +38,19 @@ Você fala direto comigo, do orçamento à entrega. Cobro pelo produto no ar e a
 ## Ferramentas que uso todo dia
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-9EFD38?style=for-the-badge&logo=claude&logoColor=111113&labelColor=9EFD38&color=9EFD38)
+![Codex](https://img.shields.io/badge/Codex-C6C5C9?style=for-the-badge&logo=openai&logoColor=C6C5C9&labelColor=292929&color=292929)
 ![Cursor](https://img.shields.io/badge/Cursor-C6C5C9?style=for-the-badge&logo=cursor&logoColor=C6C5C9&labelColor=292929&color=292929)
 ![Next.js](https://img.shields.io/badge/Next.js-C6C5C9?style=for-the-badge&logo=nextdotjs&logoColor=C6C5C9&labelColor=292929&color=292929)
 ![React](https://img.shields.io/badge/React-C6C5C9?style=for-the-badge&logo=react&logoColor=C6C5C9&labelColor=292929&color=292929)
 ![TypeScript](https://img.shields.io/badge/TypeScript-C6C5C9?style=for-the-badge&logo=typescript&logoColor=C6C5C9&labelColor=292929&color=292929)
 ![Supabase](https://img.shields.io/badge/Supabase-C6C5C9?style=for-the-badge&logo=supabase&logoColor=C6C5C9&labelColor=292929&color=292929)
+![Resend](https://img.shields.io/badge/Resend-C6C5C9?style=for-the-badge&logo=resend&logoColor=C6C5C9&labelColor=292929&color=292929)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-C6C5C9?style=for-the-badge&logo=cloudflare&logoColor=C6C5C9&labelColor=292929&color=292929)
+![Docker](https://img.shields.io/badge/Docker-C6C5C9?style=for-the-badge&logo=docker&logoColor=C6C5C9&labelColor=292929&color=292929)
 ![Stripe](https://img.shields.io/badge/Stripe-C6C5C9?style=for-the-badge&logo=stripe&logoColor=C6C5C9&labelColor=292929&color=292929)
 ![Vercel](https://img.shields.io/badge/Vercel-C6C5C9?style=for-the-badge&logo=vercel&logoColor=C6C5C9&labelColor=292929&color=292929)
+![Git](https://img.shields.io/badge/Git-C6C5C9?style=for-the-badge&logo=git&logoColor=C6C5C9&labelColor=292929&color=292929)
+![GitHub](https://img.shields.io/badge/GitHub-C6C5C9?style=for-the-badge&logo=github&logoColor=C6C5C9&labelColor=292929&color=292929)
 
 <br>
 
