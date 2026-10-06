@@ -1,37 +1,22 @@
 <img src="./assets/banner.png" alt="Carlos Imlau" width="100%">
 
-### Uso IA para colocar produtos no ar, meus ou de clientes.
+### Construo software com IA sem ser programador.
 
-Escopo fechado antes de começar, preço fixo antes de você gastar um euro e **2 a 4 semanas** do primeiro e-mail ao produto no ar.
+Trabalho como barbeiro há mais de dez anos e, desde o início de 2025, construo software com IA. A IA escreve o código; eu decido o produto, a arquitetura e o que vai para produção.
 
-Sim, construo com IA. É por isso que o prazo é de semanas e o preço é fixo. Você paga pelo produto no ar e por alguém que responde por ele.
+Parte desse caminho eu mostro no [YouTube](https://www.youtube.com/@carlosimlau).
 
 <br>
 
-## Produtos
+## O que já construí
 
 | | O quê | Estado |
 |---|---|---|
-| **[Tapinfy](https://www.tapinfy.co/)** | Página, agenda, clientes e comissões num só lugar para barbearias, com a marca e o domínio do dono. O cliente agenda sozinho e a implementação é feita pela equipe, com 30 dias de acompanhamento. | 🟢 Em produção |
-| **[Sourmize](https://www.sourmize.com/)** | Tracking de links com UTMs geradas por IA e analytics de campanha em tempo real. | 🟢 Em produção |
-
-<br>
-
-## Como trabalho
-
-**01 · Escopo fechado:** o que entra, o que fica de fora e o preço, tudo por escrito. `2 a 3 dias`
-
-**02 · Construção com IA:** o Claude Code escreve, eu dirijo, verifico e testo. `2 a 4 semanas`
-
-**03 · No ar, no seu nome:** domínio, contas e código entregues para você. `1 dia`
-
-<br>
-
-## O que é seu fica com você
-
-Código no seu GitHub, domínio e contas no seu nome, pagamentos na sua conta Stripe. No dia da entrega, você já não depende de mim.
-
-Você fala direto comigo, do orçamento à entrega. Cobro pelo produto no ar e assumo a responsabilidade pelo que a IA escreve.
+| **[Tapinfy](https://github.com/carlosimlau/tapinfy-case)** | Agendamento, página e gestão para barbearias. | 🟢 Em produção, com cliente pagante |
+| **[Falatuga](https://github.com/carlosimlau/falatuga-case)** | Adapta currículos do português do Brasil para o de Portugal, usando a AMALIA. | 🟢 No ar, gratuito |
+| **[Taí e Rob](https://github.com/carlosimlau/taierob-case)** | Site de casamento com lista de presentes, RSVP e pagamentos. | 🟢 No ar |
+| **[Escola Nova Era Tech](https://github.com/carlosimlau/plataforma-educacional-case)** | V1 do portal do aluno gamificado. | ⚪ Entregue, mantido pela escola |
+| **[Sourmize](https://github.com/carlosimlau/sourmize-case)** | Tracking de links com UTMs geradas por IA. | ⚪ Case, fora do ar |
 
 <br>
 
@@ -54,12 +39,11 @@ Você fala direto comigo, do orçamento à entrega. Cobro pelo produto no ar e a
 
 <br>
 
-## Fale comigo
+## Onde me encontrar
 
-Me conta o que você precisa. Respondo em 24 horas.
+Também construo projetos para outras pessoas. Se você tem um, me escreve.
 
-[![Agendar 15 min](https://img.shields.io/badge/Agendar%2015%20min-9EFD38?style=for-the-badge&logo=googlecalendar&logoColor=111113&labelColor=9EFD38&color=9EFD38)](https://link.carlosimlau.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-9EFD38?style=for-the-badge&logo=youtube&logoColor=111113&labelColor=9EFD38&color=9EFD38)](https://www.youtube.com/@carlosimlau)
 [![Site](https://img.shields.io/badge/carlosimlau.com-C6C5C9?style=for-the-badge&logo=googlechrome&logoColor=C6C5C9&labelColor=292929&color=292929)](https://www.carlosimlau.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C6C5C9?style=for-the-badge&logo=linkedin&logoColor=C6C5C9&labelColor=292929&color=292929)](https://www.linkedin.com/in/carlosimlau/)
-[![Instagram](https://img.shields.io/badge/Instagram-C6C5C9?style=for-the-badge&logo=instagram&logoColor=C6C5C9&labelColor=292929&color=292929)](https://www.instagram.com/iamcarlosimlau/)
 [![Email](https://img.shields.io/badge/eu@carlosimlau.com-C6C5C9?style=for-the-badge&logo=gmail&logoColor=C6C5C9&labelColor=292929&color=292929)](mailto:eu@carlosimlau.com)
