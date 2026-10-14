@@ -2,7 +2,7 @@
 
 ### Construo software com IA sem ser programador.
 
-Trabalho como barbeiro há mais de dez anos e, desde o início de 2025, construo software com IA. A IA escreve o código; eu decido o produto, a arquitetura e o que vai para produção.
+Construo software com IA desde o início de 2025. A IA escreve o código; eu decido o produto, a arquitetura e o que vai para produção.
 
 Parte desse caminho eu mostro no [YouTube](https://www.youtube.com/@carlosimlau).
 
