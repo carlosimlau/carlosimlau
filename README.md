@@ -39,9 +39,15 @@ Parte desse caminho eu mostro no [YouTube](https://www.youtube.com/@carlosimlau)
 
 <br>
 
+## Formação
+
+Sou formador certificado (CCP) em Portugal. Dou formação em IA aplicada ao trabalho: workshops e formações para equipas, e mentoria individual para quem quer usar IA no dia a dia ou construir o próprio produto com IA, sem ser programador.
+
+<br>
+
 ## Onde me encontrar
 
-Também construo projetos para outras pessoas. Se você tem um, me escreve.
+Também construo projetos para outras pessoas e dou formação a equipas. Se você tem um projeto ou uma equipa para formar, me escreve.
 
 [![YouTube](https://img.shields.io/badge/YouTube-9EFD38?style=for-the-badge&logo=youtube&logoColor=111113&labelColor=9EFD38&color=9EFD38)](https://www.youtube.com/@carlosimlau)
 [![Site](https://img.shields.io/badge/carlosimlau.com-C6C5C9?style=for-the-badge&logo=googlechrome&logoColor=C6C5C9&labelColor=292929&color=292929)](https://www.carlosimlau.com/)
